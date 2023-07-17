@@ -403,7 +403,7 @@ section{
 
 .home__button-movil:hover{
   background-color: var(--text_color);
-  color: var(--container-color);
+  color: #707070;
 }
 
 /*========== SOCIAL ==========*/
